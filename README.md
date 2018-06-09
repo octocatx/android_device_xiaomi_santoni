@@ -20,4 +20,4 @@
 
 ## Device Picture
 
-![Redmi 4X](https://cdn.tgdd.vn/Products/Images/42/99145/xiaomi-redmi-4x-400-400x460.png "Redmi 4X")
+![Redmi 4X](https://cdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-4x-3.jpg "Redmi 4X")
